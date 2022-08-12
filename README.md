@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ade Putra
-- 👀 I’m interested in Data Science, Python, and Mobile Developer
+- 👀 C# Back End Developer
 - 🌱 I’m currently learning Flutter for mobile developer
-- 💞️ I’m looking to collaborate on Mobile Developer or Data Science Project
+- 💞️ I’m looking to collaborate on Mobile Developer or Back End Project
 - 📫 You can reach me on LinkedIn : https://www.linkedin.com/in/m-s-ade-putra/
 
 <!---
